@@ -26,7 +26,7 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		{
-			src: 'https://q2.qlogo.cn/headimg_dl?dst_uin=2973517380&spec=5', // Path of the favicon, relative to the /public directory
+			src: 'https://img.cdn1.vip/i/691b1d00d7264_1763384576.png', // Path of the favicon, relative to the /public directory
 
 			//theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 			sizes: '128x128', // (Optional) Size of the favicon, set only if you have favicons of different sizes
@@ -93,7 +93,7 @@ export const profileConfig: ProfileConfig = {
 
 export const licenseConfig: LicenseConfig = {
   enable: true,
-  name: 'CC BY-NC-SA 4.0',
+  name: '鹤北博客',
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
 }
 // 在文件末尾添加 expressiveCodeConfig 导出
