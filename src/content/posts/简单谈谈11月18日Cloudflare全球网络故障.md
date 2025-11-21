@@ -1,8 +1,8 @@
 ---
 title: 简单谈谈11月18日Cloudflare全球网络故障
 published: 2025-11-19
-description: ''
-image: ''
+description: '11月18日，Cloudflare全球网络遭遇了一次重大故障，导致大量依赖其服务的网站和应用无法正常访问。'
+image: 'https://img.ht.edu.kg/file/AgACAgUAAyEGAATJkmThAAMGaSA_e1mwP8AYm1WCbjd6LrN1-IAAAvQMaxvxiAABVS_8h-PTMiz1AQADAgADeQADNgQ.jpg'
 tags: [Cloudflare, 故障]
 category: ''
 draft: false 

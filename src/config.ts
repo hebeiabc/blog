@@ -11,7 +11,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: '爱你所爱！',
 	lang: 'zh_CN', // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
 	themeColor: {
-		hue: 355, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+		hue: 225, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
@@ -44,8 +44,8 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: '随机图',
-      url: 'https://pic.onani.cn',     // Internal links should not include the base path, as it is automatically added
+      name: '运行状态',
+      url: 'https://stats.uptimerobot.com/vEzyYHZyRo',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
     {
@@ -53,6 +53,17 @@ export const navBarConfig: NavBarConfig = {
       url: 'https://qm.qq.com/q/jTAs8Al51m',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
+	{
+      name: '主网站',
+      url: 'https://blog.bmd.sc.cn',     // Internal links should not include the base path, as it is automatically added
+      external: true,                               // Show an external link icon and will open in a new tab
+    },
+	{
+      name: '副网站',
+      url: 'https://blog.bmd.sc.cn/',     // Internal links should not include the base path, as it is automatically added
+      external: true,                               // Show an external link icon and will open in a new tab
+    },
+	
   ],
 }
 
